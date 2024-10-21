@@ -66,7 +66,7 @@ To set up the project environment, follow these steps:
 To run the recommendation system:
 
 1. Ensure you have downloaded the dataset from Kaggle and placed it in the appropriate directory as indicated in the code.
-2. Open the Jupyter Notebook named **AI Fashion Recommender.ipynb**.
+2. Open the Jupyter Notebook named **ai-fashion-recommender.ipynb**.
 3. Execute the notebook cells sequentially to process images, extract embeddings, and generate recommendations.
 
 ## Applications
