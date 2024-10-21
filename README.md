@@ -1,6 +1,6 @@
 <div align="center">
 
-![AI Fashion Recommender](https://github.com/user-attachments/assets/c5c5ec3d-13e4-48e0-a590-bf346dcdf9cb)
+![AI Fashion Recommender](https://github.com/user-attachments/assets/48c283eb-b162-4cfe-ae09-6861cee7733d)
 
 </div>
 
