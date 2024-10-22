@@ -7,18 +7,30 @@
 ## Table of Contents
 
 1. [Objective](#objective)
-2. [Advantages](#advantages)
-3. [Technical Aspects](#technical-aspects)
-4. [Dataset](#dataset)
-5. [Installation](#installation)
-6. [Usage](#usage)
-7. [Applications](#applications)
-8. [Contributing](#contributing)
-9. [License](#license)
+2. [Outputs](#outputs)
+3. [Advantages](#advantages)
+4. [Technical Aspects](#technical-aspects)
+5. [Dataset](#dataset)
+6. [Installation](#installation)
+7. [Usage](#usage)
+8. [Applications](#applications)
+9. [Contributing](#contributing)
+10. [License](#license)
 
 ## Objective
 
 The **AI Fashion Recommender** project aims to provide personalized fashion recommendations based on the visual similarity of clothing items. Leveraging deep learning techniques, this recommender system analyzes fashion images and computes embeddings to find similar products, enhancing the shopping experience for users.
+
+## Outputs
+
+![Screenshot 2024-10-19 170302](https://github.com/user-attachments/assets/a9a3fb73-aa6b-4f06-8a34-3f8eaf3849e7)
+
+![Screenshot 2024-10-19 171131](https://github.com/user-attachments/assets/afd5131c-7aef-4bef-8c86-1635732618dc)
+
+![Screenshot 2024-10-19 170428](https://github.com/user-attachments/assets/e0723563-e629-4445-a4d9-7ad67cb7afad)
+
+![Screenshot 2024-10-19 171332](https://github.com/user-attachments/assets/f67ab780-2872-4471-997e-fca82a6657ca)
+
 
 ## Advantages
 
