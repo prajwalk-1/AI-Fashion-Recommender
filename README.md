@@ -15,14 +15,13 @@
 7. [Usage](#usage)
 8. [Applications](#applications)
 9. [Contributing](#contributing)
-10. [License](#license)
 
 ## Objective
 
 The **AI Fashion Recommender** project aims to provide personalized fashion recommendations based on the visual similarity of clothing items. Leveraging deep learning techniques, this recommender system analyzes fashion images and computes embeddings to find similar products, enhancing the shopping experience for users.
 
 ## Outputs
-
+ 
 ![Screenshot 2024-10-19 170302](https://github.com/user-attachments/assets/a9a3fb73-aa6b-4f06-8a34-3f8eaf3849e7)
 
 ![Screenshot 2024-10-19 171131](https://github.com/user-attachments/assets/afd5131c-7aef-4bef-8c86-1635732618dc)
@@ -91,6 +90,3 @@ To run the recommendation system:
 
 Contributions are welcome! If you'd like to contribute to the project, please fork the repository and submit a pull request. You can also open issues for suggestions or bug reports.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
