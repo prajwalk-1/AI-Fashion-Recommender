@@ -89,4 +89,3 @@ To run the recommendation system:
 ## Contributing
 
 Contributions are welcome! If you'd like to contribute to the project, please fork the repository and submit a pull request. You can also open issues for suggestions or bug reports.
-
